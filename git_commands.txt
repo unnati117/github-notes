@@ -3,3 +3,6 @@ git status
 git rm --cache testing.py
 git commit -m "added testing.py"
 git restore testing.py
+
+
+This is new changes
